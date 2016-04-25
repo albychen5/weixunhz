@@ -363,6 +363,12 @@ section#event {
     text-align: center;
 }
 
+.artist-image {
+    margin-bottom: 20px;
+    width: 320px;
+    border: 3px solid rgba(230, 230, 230, 1);
+}
+
 .artist-detail {
     text-align: center;
 }
